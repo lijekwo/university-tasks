@@ -143,8 +143,8 @@ class Grader:
         with open(filename, "w", encoding="utf-8") as f:
             f.write(self.to_json())
 
-katya = Student("Катя", "Б25-501")
-valentin = Student("Валентин", "Б25-501")
+katya = Student("Катя", "Б25-534")
+valentin = Student("Валентин", "Б25-534")
 
 math_task = Assignment("Умножение", "Сколько будет 12 * 7?", 10, 84, NumericChecker())
 sqrt_task = Assignment("Корень", "Чему равен корень из 2 (точность 0.01)?",
