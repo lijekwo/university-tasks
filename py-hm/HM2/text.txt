@@ -1,0 +1,5 @@
+Контакты:
+alice@example.com
+bob@test.org
+alice@example.com
+admin@company.ru

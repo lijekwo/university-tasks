@@ -1,0 +1,5 @@
+INFO User 123 logged in
+ERROR User 456 authentication failed
+WARNING User 123 changed password
+ERROR User 789 authentication failed
+INFO User 456 logged in
