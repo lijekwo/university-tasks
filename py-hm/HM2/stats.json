@@ -1,0 +1,13 @@
+{
+    "total_requests": 5,
+    "requests_by_method": {
+        "GET": 4,
+        "POST": 1
+    },
+    "errors_4xx": 2,
+    "most_frequent_url": {
+        "url": "/login",
+        "count": 2
+    },
+    "skipped_lines": 0
+}
